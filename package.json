@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hugosp/FCC_userinfo/issues"
   },
-  "homepage": "https://github.com/hugosp/FCC_userinfo#readme"
+  "homepage": "https://github.com/hugosp/FCC_userinfo#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
