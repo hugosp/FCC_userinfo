@@ -1,0 +1,19 @@
+{
+  "name": "userinfo",
+  "version": "1.0.0",
+  "description": "get users remote info",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugosp/FCC_userinfo.git"
+  },
+  "author": "Hewgo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugosp/FCC_userinfo/issues"
+  },
+  "homepage": "https://github.com/hugosp/FCC_userinfo#readme"
+}
